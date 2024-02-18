@@ -2,7 +2,7 @@
 
 This is the boilerplate for the SHA-1 Password Cracker project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/information-security/information-security-projects/sha-1-password-cracker
 
-You will be working on this project with our Gitpod starter code.
+You will be [working on this project with our Gitpod starter code](https://gitpod.io/?autostart=true#https://github.com/freeCodeCamp/boilerplate-SHA-1-password-cracker).
 
 We are still developing the interactive instructional part of the Python curriculum. For now, here are some videos on the freeCodeCamp.org YouTube channel that will teach you everything you need to know to complete this project:
 
