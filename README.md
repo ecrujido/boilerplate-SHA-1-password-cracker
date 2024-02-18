@@ -8,9 +8,9 @@ We are still developing the interactive instructional part of the Python curricu
 
 [Python for Everybody Video Course](https://www.freecodecamp.org/news/python-for-everybody/) (14 hours)
 
-[Learn Python Basics in Depth] (4 hours)()
+[Learn Python Basics in Depth](https://www.freecodecamp.org/news/learn-python-basics-in-depth-video-course/) (4 hours)
 
-[Intermediate Python Course] (6 hours)()
+[Intermediate Python Course](https://www.freecodecamp.org/news/intermediate-python-course/) (6 hours)
 
 Passwords should never be stored in plain text. They should be stored as hashes, just in case the password list is discovered. However, not all hashes are created equal.
 
